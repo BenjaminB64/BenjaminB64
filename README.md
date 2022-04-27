@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a consent management platform
+- 🌱 seedling I’m currently learning Solidity / Web 3
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/BenjaminB64/BenjaminB64/blob/master/devcard.svg" width="400" alt="Benjamin Bordel's Dev Card"/></a>
+
 <!--
 **BenjaminB64/BenjaminB64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
