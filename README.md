@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a consent management platform
-- 🌱 I’m currently learning Solidity / Web 3
-
 <a href="https://app.daily.dev/BenB"><img src="https://github.com/BenjaminB64/BenjaminB64/blob/main/devcard.svg" width="400" alt="Benjamin Bordel's Dev Card"/></a>
 
 <!--
